@@ -1,7 +1,8 @@
-### Welcome to Davide Carta's GitHub profile 👋
+### Welcome to Davide Carta's profile 👋
 
-I am an Italian ICT Engineer.
-Alongside an Engineering mindset, I have a strong Computer Science and Mathematical background earned through my academic path. I am comfortable at working both in a team and alone, being a proactive and independent problem solver. Passionate about research, development and innovation, I'm willing to learn what needed to achieve success in everything I lend my efforts to. Fluent in English and open minded, I'm open to new challenges and different cultures.
+Highly organized and detail-oriented ICT Engineer with first experience in Database Administration.
+Proactive and independent problem solver as well as effective team member. Equipped with fundamentals of Linux, Bash and Python for System Administration. 
+Seeking an entry-level position as Linux System Administrator, aiming to progress as Site Reliability Engineer to land in the DevOps world.
 
 Visit my profiles:
 - [**LinkedIn**](https://www.linkedin.com/in/davide-carta-it/) 
