@@ -2,7 +2,6 @@
 
 ## About me
 Highly organized and detail-oriented **ICT Engineer** with first experience in Database Administration.
-
 Proactive and independent problem solver as well as effective team member. Equipped with fundamentals of: 
 
 - _Linux_ 
