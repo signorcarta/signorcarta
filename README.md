@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am an Italian ICT Engineering student, currently completing an end of studies internship.
+
+Alongside an Engineering mindset, I have a strong Computer Science and Mathematical background earned through my academic path. I am comfortable at working both in a team and alone, being a proactive and independent problem solver. Passionate about research, development and innovation, I'm willing to learn what needed to achieve success in everything I lend my efforts to. Fluent in English and open minded, I'm open to new challenges and different cultures.
