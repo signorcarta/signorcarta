@@ -2,7 +2,16 @@
 
 ## About me
 Highly organized and detail-oriented **ICT Engineer** with first experience in Database Administration.
-Proactive and independent problem solver as well as effective team member. Equipped with fundamentals of _Linux_, _Bash_ and _Python_ for _System Administration_. 
+Proactive and independent problem solver as well as effective team member. Equipped with fundamentals of: 
+
+- _Linux_ 
+- _Bash_ 
+- _Python_
+ 
+for _System Administration_. 
+
+
+
 Seeking an entry-level position as **Linux System Administrator**, aiming to progress as Site Reliability Engineer to land in the DevOps world.
 
 ## My profiles
