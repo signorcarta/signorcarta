@@ -1,18 +1,18 @@
-<h3 style="font-family:verdana;" align="center"> Welcome to Davide Carta's profile 👋</h3> 
+<h1 style="font-family:verdana;" align="center"> Welcome to Davide Carta's profile 👋</h3> 
 
 ## About me
 Highly organized and detail-oriented **ICT Engineer** with first experience in Database Administration.
 Proactive and independent problem solver as well as effective team member. Equipped with fundamentals of: 
 
-- _Linux_ 
-- _Bash_ 
-- _Python_
+- Linux
+- Bash
+- Python
  
 for _System Administration_. 
 
 
 
-Seeking an entry-level position as **Linux System Administrator**, aiming to progress as Site Reliability Engineer to land in the DevOps world.
+Seeking an entry-level position as **Linux System Administrator**, aiming to progress as _Site Reliability Engineer_ to eventually land in the DevOps world.
 
 ## My profiles
 
