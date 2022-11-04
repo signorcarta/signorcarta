@@ -1,18 +1,11 @@
 <h1 style="font-family:verdana;" align="center"> Welcome to Davide Carta's profile 👋</h3> 
 
 ## About me
-Highly organized and detail-oriented **ICT Engineer** with first experience in Database Administration.
-Proactive and independent problem solver as well as effective team member. Equipped with fundamentals of: 
+Highly organized and detail-oriented ICT Engineer with experience in administration of MySQL and PostgreSQL databases. Proactive and independent problem solver as well as effective team member.
 
-- Linux
-- Bash
-- Python
- 
-for _System Administration_. 
+Currently: Database consultant - Professional Services, EMEA @ EDB
 
 
-
-Seeking an entry-level position as **Linux System Administrator**, aiming to progress as _Site Reliability Engineer_ to eventually land in the DevOps world.
 
 ## My profiles
 
