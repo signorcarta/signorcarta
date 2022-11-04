@@ -1,4 +1,4 @@
-<h1 style="font-family:verdana;" align="center"> Welcome to Davide Carta's profile 👋</h3> 
+<h1 style="font-family:verdana;" align="center"> Welcome to my profile! 👋</h3> 
 
 ## About me
 Highly organized and detail-oriented ICT Engineer with experience in administration of MySQL and PostgreSQL databases. Proactive and independent problem solver as well as effective team member.
